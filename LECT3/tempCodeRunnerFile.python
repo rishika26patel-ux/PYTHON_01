@@ -1,3 +1,5 @@
-sal = float(input("salary : "))
-tax = sal*(0.1, 0.2) [sal<=50000]
-print(tax)
+p= float(input("p : "))
+r= float(input("r : "))
+t= float(input("t : "))
+si =(p*r*t)/100
+print(si)
