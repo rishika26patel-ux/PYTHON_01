@@ -1,5 +1,5 @@
 #Print number from 100 to 1
-b=100
-while b>=1: #stopping condition
-    print(b)
-    b-=1
+num1=100
+while num1>=1: #stopping condition
+    print(num1)
+    num1-=1
