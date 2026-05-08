@@ -6,10 +6,10 @@
 
 
 #WHILE LOOPS
-# count=1 #count is a variable=it is called iterator
-# while count<=100:
-#     print("Shri_Radhe",count)
-#     count=count+1
+count=1 #count is a variable=it is called iterator
+while count<=100:
+    print("anujika",count)
+    count=count+1
 
 
 #PRINT NUMBERS FROM 1 TO 5
