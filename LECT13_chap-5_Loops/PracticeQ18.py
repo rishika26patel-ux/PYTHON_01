@@ -1,5 +1,5 @@
 #Print numbers from 1 to 100
-a=1
-while a<=100:
-    print(a)
-    a+=1
+num=1
+while num<=100:
+    print(num)
+    num+=1
