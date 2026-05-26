@@ -4,6 +4,8 @@
 
 
 #for example- print n to 1 backword
+
+#RECURSIVE FUNCTION
 def show(n):
     if(n==0):
         return
