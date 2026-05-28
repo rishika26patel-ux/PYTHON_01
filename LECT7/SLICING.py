@@ -16,6 +16,6 @@ print(str[0:])
 print(str[:8])
 
 
-#NEGATIVE INDEX Counting IN SLICING
+#NEGATIVE INDEX Counting(backword counting) IN SLICING
 str= "apple"
 print(str[-3:-1])

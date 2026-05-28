@@ -12,6 +12,6 @@ collection={1,2,2,3,4,"hello","world","world"}
 print(collection)
 print(len(collection))#total number of items
 
-
-collection1= set()
+#EMPTY SET CREATE
+collection1= set() 
 print(type(collection1))

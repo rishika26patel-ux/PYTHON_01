@@ -21,7 +21,7 @@ print(dict["subjects"])
 print(dict["age"])
 
 #add and assign new value in dictionary
-dict["name"]="tanu!!" #overwrite
+dict["name"]="tanu!!" #overwrite #duplicate key nii ho sakti hai dict me
 print(dict)
 
 #create empty dictinary

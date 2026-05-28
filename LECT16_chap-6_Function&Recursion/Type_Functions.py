@@ -16,7 +16,7 @@ print("rishika" ,end=" ") #print values in same line
 #Calculate multiple of two numbers
 
 
-#DEFAULT PARAMETER(assume 1,1)
+#DEFAULT PARAMETER(assume parameters automatically)
 def cal_mul(a=2,b=4):
     mul=a*b
     print(mul)

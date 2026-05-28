@@ -3,8 +3,9 @@
 #tup=(2,3,4,5,6,8)
 #tup[0]=8 # not allowed in python
 
-tup=(2,3,4,5)
+tup=(2,3,4,5) #(1) tuple is not valid
 print(type(tup))
 print(tup[0])
 print(tup[1]) #hum tupple me new value assign(kisi idx per nyi value) nii kar sakte hai kiyoki ye immutable hote hai
+#TUPLE SLICING
 print(tup[1:3])

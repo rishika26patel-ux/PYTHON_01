@@ -7,4 +7,4 @@ student={
     "math":94
 }
 }
-print(student["subjects"]["math"])#particular value
+print(student["subjects"]["math"])#particular value print["math"]=maths ke marks

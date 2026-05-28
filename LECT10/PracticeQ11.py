@@ -6,6 +6,6 @@ copy_list2 = list2.copy()
 copy_list2.reverse()
 
 if(copy_list2 == list1):
-    print("pallindrome hai")
+    print("pallindrome")
 else:
     print("not a pallindrome")    

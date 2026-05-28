@@ -3,4 +3,4 @@
 
 #SYNTAX
 for el in range(10):
-     pass
+     pass   #loop ke andar koi kam nii karwana ho to iska use hota hai

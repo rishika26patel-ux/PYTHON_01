@@ -7,6 +7,6 @@ def print_list(list,idx=0):
     print_list(list,idx+1)
 
 
-fruits=["mnago","litchi","banana","apple"]
+fruits=["mnago","litchi","banana","apple","papaya","strawberry"]
 
 print_list(fruits)

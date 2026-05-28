@@ -41,5 +41,7 @@ else:
                   print("o found")
                   break
              print(char)
-        else:
+        else:          #complete  tak karwana hai to else ka use karte hai
              print("end")
+
+             #end tak karwana hai to normal print karte hai 

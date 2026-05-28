@@ -42,6 +42,3 @@ list.pop(2)#remove element at idx
 print(list)
 
 
-list=["ab","cde"]
-list.count(2)
-print(list)

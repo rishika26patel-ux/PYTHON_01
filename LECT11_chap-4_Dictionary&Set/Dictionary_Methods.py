@@ -39,3 +39,9 @@ print(list(student.values()))#store dict values in list
 #myDict.update(newDict)#inserts the specified iems to the dictionary
 student.update({"city":"delhi" "mumbai"})
 print(student)
+
+
+new_dict1 ={"name":"neha","age":20 }
+student.update(new_dict1)
+
+print(student)

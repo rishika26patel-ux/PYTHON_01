@@ -1,6 +1,6 @@
 name = input("enter name:")
-age= input("enter age:")
-marks= input("enter marks:")
+age= int(input("enter age:"))
+marks= float(input("enter marks:"))
 
 print("welcome",name)
 print("you entered",age)

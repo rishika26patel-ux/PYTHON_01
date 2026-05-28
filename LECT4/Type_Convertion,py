@@ -1,0 +1,5 @@
+#TYPE CONVERTION
+a="7"
+b=4.4
+sum=a+b
+print(sum) #3.0 + 4.4 = 7.4

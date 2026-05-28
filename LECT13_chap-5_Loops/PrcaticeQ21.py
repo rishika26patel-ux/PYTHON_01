@@ -2,7 +2,7 @@
 #[1,4,9,16,25,36,49,64,81,100]
 
 nums=[1,4,9,16,25,36,49,64,81,100,121]
-#traverse karna 
+#traverse karna (ek ek element per jana or opration perform karna)
 idx=0
 while idx<len(nums):
     print(nums[idx])

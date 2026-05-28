@@ -8,7 +8,7 @@
 #WHILE LOOPS
 count=1 #count is a variable=it is called iterator
 while count<=100:
-    print("anujika",count)
+    print("rishika",count)
     count=count+1
 
 
@@ -22,7 +22,7 @@ while count<=100:
 
 
 #PRINT 5 TO 1 NUMBERS
-i = 5
-while i >= 1:
-    print(i)
-    i -= 1
+# i = 5
+# while i >= 1:
+#     print(i)
+#     i -= 1
