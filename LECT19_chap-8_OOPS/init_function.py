@@ -26,3 +26,23 @@ print(s1.name)  #parnathesis constructor call karne ke liye
 
 s2=Student("rika")
 print(s2.name) #constructor har ek object ke sath call hota hai
+
+
+
+
+
+
+
+class Student:
+    name="rishika"
+    def __init__(self,fullname,marks):  #constructor ke andar humesha argument pass karna hota hai ,self is a  first parameter
+        self.name=fullname
+        self.marks=marks
+        print("adding new student in database")
+
+s1=Student("rishika",99)
+print(s1.name,s1.marks)  #parnathesis constructor call karne ke liye
+
+
+s2=Student("rika",90)
+print(s2.name,s2.marks) #constructor har ek object ke sath call hota hai
