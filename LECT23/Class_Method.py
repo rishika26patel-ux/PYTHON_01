@@ -19,7 +19,7 @@ print(Person.name)
 class Person:
     name="rishika"
      
-    @classmethod
+    @classmethod  #it is used to change direct attributes  in class
     def changeName(cls,name):
         cls.name=name 
  

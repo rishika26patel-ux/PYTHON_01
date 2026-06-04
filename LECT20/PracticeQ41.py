@@ -16,3 +16,7 @@ class Student:
 
 s1=Student("rishika patel",[99,87,94]) 
 s1.get_avg()       
+
+# change attribute name directly
+s1.name="tanu"
+s1.get_avg()
